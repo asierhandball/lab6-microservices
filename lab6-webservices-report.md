@@ -1,8 +1,8 @@
 # Web Engineering 2016-2017 (UNIZAR)
 ## 1- The two microservices are running and are registered.
 #### Account Service running
-![](images/AccountServerTerminal.png?raw=true)
-![](images/AccountServerLaunched.png?raw=true)
+![Account Service 1](images/AccountServerTerminal.png?raw=true)
+![Account Service 2](images/AccountServerLaunched.png?raw=true)
 
 #### Web Service running.
 
